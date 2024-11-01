@@ -1,0 +1,179 @@
+# Copyright (C) 2019 Nathan Rice
+# This file is distributed under the GNU General Public License v2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Profiles Widget 1.2.5\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/social-profiles-widget\n"
+"POT-Creation-Date: 2019-08-06 14:39:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: node-wp-i18n 1.2.3\n"
+
+#: includes/class-social-profiles-widget.php:19
+msgid "Displays Social Profile links as icons"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:21
+msgid "Social Profiles"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:42
+msgid "RSS/Feedburner URL"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:45
+msgid "RSS"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:48
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:51
+msgid "Twitter"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:54
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:57
+msgid "Facebook"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:60
+msgid "Linkedin URL"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:63
+msgid "Linkedin"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:66
+msgid "YouTube URL"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:69
+msgid "Youtube"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:72
+msgid "Flickr URL"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:75
+msgid "Flickr"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:78
+msgid "Delicious URL"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:81
+msgid "Delicious"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:84
+msgid "StumbleUpon URL"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:87
+msgid "StumbleUpon"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:90
+msgid "Digg URL"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:93
+msgid "Digg"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:96
+msgid "MySpace URL"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:99
+msgid "MySpace"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:174
+msgid "Title"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:178
+msgid "Open links in new window?"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:181
+msgid "Icon Set"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:183
+msgid "Default"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:184
+msgid "Circles"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:185
+msgid "Denim"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:186
+msgid "Inside"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:187
+msgid "Sketch"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:192
+msgid "Icon Size"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:194
+msgid "Mini"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:195
+msgid "Small"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:196
+msgid "Large"
+msgstr ""
+
+#: includes/class-social-profiles-widget.php:200
+msgid ""
+"Enter the URL(s) for your various social profiles below. If you leave a "
+"profile URL field blank, it will not be used."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Social Profiles Widget"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/social-profiles-widget"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin/widget allows you to insert social profile icons into your "
+"sidebar via a widget."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Nathan Rice"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.nathanrice.net/"
+msgstr ""

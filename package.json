@@ -1,0 +1,27 @@
+{
+  "name": "social-profiles-widget",
+  "description": "Development files for the Social Profiles Widget plugin.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/copyblogger/social-profiles-widget"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "node-wp-i18n": "^1.2.3"
+  },
+  "scripts": {
+    "makepot": "wpi18n makepot --exclude=vendor,node_modules",
+    "addtextdomain": "wpi18n addtextdomain --exclude=vendor,node_modules"
+  },
+  "plugin": {
+    "name": "Social Profiles Widget",
+    "uri": "https://github.com/copyblogger/social-profiles-widget",
+    "description": "This plugin/widget allows you to insert social profile icons into your sidebar via a widget.",
+    "author": "Nathan Rice",
+    "authoruri": "http://www.nathanrice.net/",
+    "version": "1.2.5",
+    "license": "GPL-2.0+",
+    "licenseuri": "http://www.gnu.org/licenses/gpl-2.0.html",
+    "textdomain": "social-profiles-widget"
+  }
+}
